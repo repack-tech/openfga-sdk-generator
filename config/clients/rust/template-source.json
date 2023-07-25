@@ -1,0 +1,7 @@
+{
+  "repo": "https://github.com/OpenAPITools/openapi-generator",
+  "branch": "master",
+  "commit": "7ad8f6ef29d85272b8cdd2eb7b93ff19c0336be1",
+  "url": "https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator/src/main/resources/rust",
+  "docs": "https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/rust.md"
+}
